@@ -1,5 +1,5 @@
 
-![Maxx](https://telegra.ph/file/d651c7b7943a9702f846d.png)
+![Maxx](https://telegra.ph/file/7ee1a6d6a9d0c5372991e.jpg)
 
 This is a telegram bot helps you to store your files and get the share able permanent link 
 
