@@ -70,9 +70,9 @@ async def about_cb(c, m):
 
 👨‍💻 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫: {owner.mention(style='md')}
 
-📢 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: [NS BOT UPDATES](https://t.me/ShadowsArena)
+📢 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: [SHADOW ARENA](https://t.me/ShadowsArena)
 
-👥 𝐆𝐫𝐨𝐮𝐩: [Ns BOT SUPPORT](https://t.me/MovieAddaaOfShadow)
+👥 𝐆𝐫𝐨𝐮𝐩: [MOVIE ADDAA](https://t.me/MovieAddaaOfShadow)
 
 🌐𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞: [Press Me 🥰](https://github.com/MasterShad0w/Channel-File-Store)
 """
