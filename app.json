@@ -1,5 +1,5 @@
 {
-  "name": "File Store",
+  "name": "Shadow File Store",
   "description": "Telegram bot to store your telegram files",
   "keywords": [
     "telegram",
@@ -7,10 +7,10 @@
     "Store",
     "Files"
   ],
-  "logo": "https://telegra.ph/file/bdd3352951be090a56590.jpg",
+  "logo": "https://telegra.ph/file/1b71ca9ebb039a8bf98fb.jpg",
   "success_url": "https://telegram.dog/filestore_Nsbot",
-  "website": "https://github.com/Ns-Bots/TG-File-Store",
-  "repository": "https://github.com/Ns-Bots/TG-File-Store",
+  "website": "https://github.com/MasterShad0w/Channel-File-Store",
+  "repository": "https://github.com/MasterShad0w/Channel-File-Store",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
